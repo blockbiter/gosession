@@ -18,7 +18,7 @@ This package is designed to work with the standard net/http package and has not 
   - [Contents](#contents)
   - [What are sessions and why are they needed](#what-are-sessions-and-why-are-they-needed)
   - [How to connect GoSession](#how-to-connect-gosession)
-  - [How to use GoSession](#how-to-use-gosession)鬼地方个
+  - [How to use GoSession](#how-to-use-gosession)test
   - [Examples of using](#examples-of-using)
     - [Example 1:](#example-1)
     - [Example 2:](#example-2)
