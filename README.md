@@ -11,13 +11,14 @@ This package is perhaps the best implementation of the session mechanism, at lea
 **Important note**
 This package is designed to work with the standard net/http package and has not been tested with other http packages by the developer.
 
+
 ## Contents
 
 - [GoSession](#gosession)
   - [Contents](#contents)
   - [What are sessions and why are they needed](#what-are-sessions-and-why-are-they-needed)
   - [How to connect GoSession](#how-to-connect-gosession)
-  - [How to use GoSession](#how-to-use-gosession)
+  - [How to use GoSession](#how-to-use-gosession)鬼地方个
   - [Examples of using](#examples-of-using)
     - [Example 1:](#example-1)
     - [Example 2:](#example-2)
